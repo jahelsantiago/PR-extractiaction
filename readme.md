@@ -1,7 +1,7 @@
 This script is for extracting all the comments and associated information from a fixed user of a given repository.
 It will output a JSON file with the format:
 
-```javascript
+```python
 {
     id: number;
     body: string;
