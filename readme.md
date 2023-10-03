@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 # run
-Edit the main.py file to change the github access token and the repository name.
+Edit the `main.py` file to change the github access token and the repository name.
 Then run the main.py file
 ```bash
 python3 main.py
